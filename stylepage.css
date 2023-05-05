@@ -1,0 +1,24 @@
+header {
+    background-color: aqua;
+}
+body {
+    background-color: aliceblue;
+}
+section {
+    background-color: cyan;
+}
+footer {
+    background-color: darkcyan;
+}
+h1 {
+    background-color: grey;
+    color: darkslategray;
+}
+.center {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+}
