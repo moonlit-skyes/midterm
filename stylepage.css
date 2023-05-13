@@ -5,23 +5,34 @@ header {
     border-style: dashed;
 }
 body {
-    background-color: aliceblue;
+    background-image: url("https://images.unsplash.com/photo-1500575351013-6b9af18d7722?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2xlYXIlMjB3YXRlcnxlbnwwfHwwfHw%3D&w=1000&q=80");
 }
 P {
     border-color: aquamarine;
     border-width: 5px;
     border-style: dashed;
     border-width: auto;
+    background-color: teal;
 }
 section {
     background-color: cyan;
 }
 footer {
-    background-color: darkcyan;
+    background-color: lavender;
+    border-color: lightgreen;
+    border-style: dotted;
 }
 h1 {
     background-color: grey;
     color: darkslategray;
+    border-color: green;
+    border-style: groove;
+}
+h2 {
+    background-color: grey;
+    color: darkslategray;
+    border-color: chartreuse;
+    border-style: groove;
 }
 .center {
 
@@ -31,3 +42,14 @@ h1 {
 
     margin-right: auto;
 }
+.grid-container {
+    display: grid;
+    padding: 5px;
+    background-color: aquamarine;
+  }
+  .grid-item
+  {
+    grid-column: auto;
+    grid-row: auto;
+    background-color: aquamarine;
+  }

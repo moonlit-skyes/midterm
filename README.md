@@ -6,6 +6,13 @@ i'm actually a bit of a perfectionist, if i can't make things perfect i usually 
 and that explains my dating history in my early twenties.
 i need to work on my need to jam both humor and self reflection into every little space i can find it.
 i also need to work on actually writing something useful in the read me. there's six pages for this site i guess.
+genuinely sorry there is no sketch. i was fifteen miles outta town before i realized i left my rear tire at home kinda deal.
+it'd feel like lying to go back and make one?
+not sure.
+feels weird.
+i'm just trying to make sure i'm not late on every assignment. i hate being late for stuff.
+maybe i should take my meds.
+i feel like if i was born four hundred years ago i'd be one of those tragic poets who would mumble to ravens while writing love letters to people who've died yet their bodies still draw breath.
 
 
 
