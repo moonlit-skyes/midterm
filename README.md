@@ -2,18 +2,9 @@
  csi140midterm
 miderm on probably one of the most depressing topics i've read in a while.
 trying out some stuff. the exact pixel messurements are kinda finicky and i can't seem to make things to work in just the right way.
-i'm actually a bit of a perfectionist, if i can't make things perfect i usually give up on it.
-and that explains my dating history in my early twenties.
-i need to work on my need to jam both humor and self reflection into every little space i can find it.
 i also need to work on actually writing something useful in the read me. there's six pages for this site i guess.
 genuinely sorry there is no sketch. i was fifteen miles outta town before i realized i left my rear tire at home kinda deal.
-it'd feel like lying to go back and make one?
-not sure.
-feels weird.
-i'm just trying to make sure i'm not late on every assignment. i hate being late for stuff.
-maybe i should take my meds.
-i feel like if i was born four hundred years ago i'd be one of those tragic poets who would mumble to ravens while writing love letters to people who've died yet their bodies still draw breath.
-
+this thing is littered with typos, i can't spell to save my life. if you see really bad grammar n no capitalization its probably not supposed to be that serious since this is how i type when i'm just kinda train of thought typing. the about us page is full of that. don't take it too seriously, i have a myriad of mental illnesses and most of my jokes don't land unless you need mood stabilizers.
 
 
 
