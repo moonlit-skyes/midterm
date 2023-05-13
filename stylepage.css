@@ -1,8 +1,17 @@
 header {
     background-color: aqua;
+    border-color: aquamarine;
+    border-width: 5px;
+    border-style: dashed;
 }
 body {
     background-color: aliceblue;
+}
+P {
+    border-color: aquamarine;
+    border-width: 5px;
+    border-style: dashed;
+    border-width: auto;
 }
 section {
     background-color: cyan;
